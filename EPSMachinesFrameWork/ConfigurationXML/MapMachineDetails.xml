@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Machines>
+  <!--<Machine Type ="LCM">
+    <FloorNum>1</FloorNum>
+    <Channel>CH001</Channel>
+    <Name>LCM_FLR1</Name>
+    <DisplayName>LCM1</DisplayName>  
+</Machine>
+  <Machine Type ="LCM">
+    <FloorNum>1</FloorNum>
+    <Channel>CH002</Channel>
+    <Name>LCM_FLR2</Name>
+    <DisplayName>LCM2</DisplayName>
+  </Machine>-->
+  <Machine Type ="UCM">
+    <FloorNum>2</FloorNum>
+    <Channel>CH021</Channel>
+    <Name>UCM_FLR02_01</Name>
+    <DisplayName>UCM1</DisplayName>
+    <MachineNum>1</MachineNum>
+   </Machine>
+  <Machine Type ="UCM">
+    <FloorNum>2</FloorNum>
+    <Channel>CH022</Channel>
+    <Name>UCM_FLR02_02</Name>
+    <DisplayName>UCM2</DisplayName>
+    <MachineNum>2</MachineNum>
+  </Machine>
+  <Machine Type ="UCM">
+    <FloorNum>2</FloorNum>
+    <Channel>CH023</Channel>
+    <Name>UCM_FLR02_03</Name>
+    <DisplayName>UCM3</DisplayName>
+    <MachineNum>3</MachineNum>
+  </Machine>
+ <!--<Machine Type ="VLC">
+   <FloorNum>1</FloorNum>
+    <Channel>XCHANEL</Channel>
+    <Name>XNAME</Name>
+   <DisplayName>VLC1</DisplayName>
+  </Machine>
+ <Machine Type ="PS">
+   <FloorNum>1</FloorNum>
+   <Channel>XCHANEL</Channel>
+   <Name>XNAME</Name>
+   <DisplayName>PS1</DisplayName>
+  </Machine>-->
+
+  <Machine Type ="UCM">
+    <FloorNum>3</FloorNum>
+    <Channel>CH031</Channel>
+    <Name>UCM_FLR03_01</Name>
+    <DisplayName>UCM1</DisplayName>
+    <MachineNum>1</MachineNum>
+  </Machine>
+  <Machine Type ="UCM">
+    <FloorNum>3</FloorNum>
+    <Channel>CH032</Channel>
+    <Name>UCM_FLR03_02</Name>
+    <DisplayName>UCM2</DisplayName>
+    <MachineNum>2</MachineNum>
+  </Machine>
+  <Machine Type ="UCM">
+    <FloorNum>3</FloorNum>
+    <Channel>CH033</Channel>
+    <Name>UCM_FLR03_03</Name>
+    <DisplayName>UCM3</DisplayName>
+    <MachineNum>3</MachineNum>
+  </Machine>
+
+  <Machine Type ="VLC">
+    <FloorNum>-1</FloorNum>
+    <Channel>CH001</Channel>
+    <Name>VLC_FLR00_01</Name>
+    <DisplayName>VLC1</DisplayName>
+    <MachineNum>1</MachineNum>
+  </Machine>
+  <Machine Type ="VLC">
+    <FloorNum>-1</FloorNum>
+    <Channel>CH002</Channel>
+    <Name>VLC_FLR00_02</Name>
+    <DisplayName>VLC2</DisplayName>
+    <MachineNum>2</MachineNum>
+  </Machine>
+  
+  
+  
+</Machines>
